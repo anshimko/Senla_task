@@ -3,11 +3,6 @@ package com.senla.task04;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/*
-4. Создать программу, которая подсчитывает сколько раз употребляется слово в тексте (без учета регистра). 
-Текст и слово вводится вручную.
-*/
-
 public class Solution {
 
 	public static void main(String[] args) {
