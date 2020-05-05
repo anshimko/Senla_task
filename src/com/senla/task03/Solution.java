@@ -3,14 +3,6 @@ package com.senla.task03;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/*
-3. Создать программу, которая будет:
-подсчитывать количество слов в предложении
-выводить их в отсортированном виде 
-делать первую букву каждого слова заглавной. 
-Предложение вводится вручную. (Разделитель пробел (“ ”)).
-*/
-
 public class Solution {
 
 	public static void main(String[] args) {
